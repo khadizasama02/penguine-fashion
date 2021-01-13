@@ -1,0 +1,24 @@
+.color
+{
+    background-color: #FFFBF0;
+}
+.name-color
+{
+    color: #FABE4C;
+}
+.new-color
+{
+    color: #130f40;
+}
+.green
+{
+    background-image: linear-gradient(#6ab04c,#A3CB38) ;
+}
+.card img{
+    background-color: #F1F1F1;
+    
+}
+.card
+{
+ border: 0;
+}
