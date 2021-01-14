@@ -8,17 +8,42 @@
 }
 .new-color
 {
-    color: #130f40;
+    color: #120d49;
 }
 .green
 {
     background-image: linear-gradient(#6ab04c,#A3CB38) ;
 }
-.card img{
+.image-card{
     background-color: #F1F1F1;
     
+    border-radius: 20px;
+    
 }
-.card
+.penguine-card
 {
  border: 0;
+ border-radius: 20px;
+}
+.penguine-card-border
+{
+    border: 0;
+    background-color:white;
+}
+.footer-card
+{
+    border: 0;
+    border-radius: 20px;
+}
+..green img
+{
+    background: none;
+}
+.extra-section
+{
+    height: 400px;
+    background-color:#fdf6e3;
+}
+.extra-section a{
+    text-decoration: none;
 }
